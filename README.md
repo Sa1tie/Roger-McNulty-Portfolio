@@ -1,16 +1,30 @@
-# Roger McNulty - IT Business Systems Analyst Portfolio
+# Roger McNulty
+### IT Business Systems Analyst | Top Secret Clearance | MBA Candidate
 
-Welcome to my professional portfolio. This repository documents my transition from Marine Corps leadership and technical operations to strategic Business Systems Analysis.
+<a href="https://www.linkedin.com/in/roger-mcnulty-016776219">
+  <img src="linkedinprofile.png" width="220" align="left" hspace="25" vspace="10" alt="Roger McNulty LinkedIn">
+</a>
 
-[![Roger's LinkedIn]([https://media.licdn.com/dms/image/v2/D4E03AQEXzSAPbbs_qg/profile-displayphoto-crop_800_800/B4EZl.MeM_KYAI-/0/1758758827067?e=1766620800&v=beta&t=T53AdFOCJXqi2zJWphguXi6fdD2S_1JoF3aJir0m4qc))]([https://www.linkedin.com/in/rogermcnulty](https://www.linkedin.com/in/roger-mcnulty-016776219/))
+**Welcome to my professional portfolio.**
 
-## What's Inside
+I am a Top Secret cleared IT professional transitioning into Business Systems Analysis, bringing a unique blend of technical depth and operational discipline. With a background spanning **U.S. Marine Corps leadership**, **railroad operations**, and **classified defense infrastructure** (BAE Systems & Raytheon), I specialize in translating complex operational needs into actionable technology solutions.
 
-# Portfolio Documents
-* **[View My Portfolio](RogerMcNulty_BSA_CL.pdf)** 
-* **[View My Resume](RogerMcNulty_BSA.pdf)**
+Currently completing my **MBA in Project Management**, I focus on strategic IT planning, cross-functional alignment, and process modernization. This repository demonstrates my ability to document requirements, manage risk, and deliver value in mission-critical environments.
 
-## Contact
+<br clear="left"/>
 
-Email: saltieusmc@gmail.com
+---
 
+## 📂 Portfolio Documents
+
+| Document | Description |
+| :--- | :--- |
+| **[📄 View My Resume](RogerMcNulty_BSA.pdf)** | A comprehensive overview of my experience in Systems Administration, Requirements Gathering, and Operational Leadership. |
+| **[📄 View My Portfolio](RogerMcNulty_BSA_CL.pdf)** | Selected work samples demonstrating business case analysis, process modeling, and strategic alignment capabilities. |
+
+---
+
+## 📬 Contact
+* **Email:** [saltieusmc@gmail.com](mailto:saltieusmc@gmail.com)
+* **Location:** Nashua, NH
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/roger-mcnulty-016776219)
