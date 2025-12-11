@@ -29,4 +29,4 @@ Currently completing my **MBA in Project Management**, I focus on strategic IT p
 ## 📬 Contact
 * **Email:** [saltieusmc@gmail.com](mailto:saltieusmc@gmail.com)
 * **Location:** Nashua, NH
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/roger-mcnulty-016776219)
+* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/roger-mcnulty)
