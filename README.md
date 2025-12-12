@@ -9,7 +9,7 @@
 
 I am a Top-Secret cleared IT professional transitioning into **Business Systems Analysis**, combining strong technical experience with operational discipline and strategic insight. My background spans **U.S. Marine Corps leadership**, **railroad operations**, and **classified defense infrastructure** (with roles at BAE Systems and Raytheon). I excel at translating complex operational requirements into actionable technology solutions that deliver real value.
 
-Currently pursuing an **MBA in Project Management**, I am focused on strategic IT planning, cross-functional alignment, and process modernization. This portfolio showcases my ability to document requirements, manage risk, and apply analytical thinking in mission-critical environments.
+Currently pursuing an **MBA in Business Analytics**, I am focused on strategic IT planning, cross-functional alignment, and process modernization. This portfolio showcases my ability to document requirements, manage risk, and apply analytical thinking in mission-critical environments.
 
 Explore my work to see how I blend technical depth with business insight to drive meaningful outcomes.
 
