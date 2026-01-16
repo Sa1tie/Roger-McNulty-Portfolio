@@ -24,7 +24,7 @@ Explore the materials below to see how I support **IT & Security leadership** by
 | Document | Description |
 | :--- | :--- |
 | **[📄 View My Portfolio](Projects_Portfolio.pdf)** | Selected case studies and artifacts demonstrating requirements engineering, continuity planning, and IT & Security alignment in regulated environments. |
-| **[📄 Selected Technical Samples](https://github.com/Sa1tie/Powershell)** | A focused set of automation and configuration examples supporting operational reliability and documentation consistency. |
+
 
 ---
 
