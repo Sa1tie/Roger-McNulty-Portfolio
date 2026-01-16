@@ -1,5 +1,5 @@
 # Roger McNulty
-### IT Business Systems Analyst | Top Secret Clearance | MBA Candidate
+### IT & Security Business Systems Analyst | Top Secret Clearance | MBA Candidate
 
 <a href="https://www.linkedin.com/in/roger-mcnulty-016776219">
   <img src="profile.png" width="220" align="left" hspace="25" vspace="10" alt="Roger McNulty LinkedIn">
@@ -7,25 +7,24 @@
 
 **Welcome to my professional portfolio.**
 
-I am a Top-Secret cleared IT professional transitioning into **Business Systems Analysis**, combining strong technical experience with operational discipline and strategic insight. My background spans **U.S. Marine Corps leadership**, **railroad operations**, and **classified defense infrastructure** (with roles at BAE Systems and Raytheon). I excel at translating complex operational requirements into actionable technology solutions that deliver real value.
+I specialize in supporting **IT and Security organizations in regulated and classified environments** by clarifying requirements, documenting undocumented systems, and reducing operational risk through disciplined change and service management practices.
 
-Currently pursuing an **MBA in Business Analytics**, I am focused on strategic IT planning, cross-functional alignment, and process modernization. This portfolio showcases my ability to document requirements, manage risk, and apply analytical thinking in mission-critical environments.
+My background includes **U.S. Marine Corps leadership** and years of experience supporting mission-critical systems in closed and highly regulated environments, including work with **BAE Systems and Raytheon**. Across these roles, I have focused on strengthening **continuity, audit readiness, and cross-functional alignment** between engineering, cybersecurity, and operations teams.
 
-Explore my work to see how I blend technical depth with business insight to drive meaningful outcomes.
+Currently pursuing an **MBA in Business Analytics**, I focus on translating technical complexity into **clear requirements, risk-aware decisions, and sustainable operational practices** that allow organizations to modernize safely without compromising compliance or mission continuity.
 
+Explore the materials below to see how I support **IT & Security leadership** by enabling controlled change, improving service reliability, and strengthening governance in high-consequence environments.
 
 <br clear="left"/>
 
 ---
 
-## 📂 Portfolio Documents
+## 📂 Portfolio Materials
 
 | Document | Description |
 | :--- | :--- |
-| **[📄 View My Portfolio](Projects_Portfolio.pdf)** | Selected work samples demonstrating business case analysis, process modeling, and strategic alignment capabilities. |
-| **[📄 Go to PowerShell Scripts](https://github.com/Sa1tie/Powershell)** | Collection of PowerShell scripts for automation, configuration, and system administration tasks. |
-| **[📄 Go to Ansible Platbooks](https://github.com/Sa1tie/playbooks)** | Ansible playbooks demonstrating infrastructure provisioning, configuration management, and deployment processes. |
-
+| **[📄 View My Portfolio](Projects_Portfolio.pdf)** | Selected case studies and artifacts demonstrating requirements engineering, continuity planning, and IT & Security alignment in regulated environments. |
+| **[📄 Selected Technical Samples](https://github.com/Sa1tie/Powershell)** | A focused set of automation and configuration examples supporting operational reliability and documentation consistency. |
 
 ---
 
